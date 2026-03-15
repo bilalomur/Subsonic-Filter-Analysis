@@ -3,6 +3,7 @@
 ## Project Overview
 This project involves the design, simulation, and verification of a subsonic audio filter. The goal was to ensure signal integrity by filtering out frequencies below the audible range while maintaining a flat response in the passband.
 
+
 ## Tools Used
 * **LTspice:** For initial transient and AC analysis.
 * **NI Multisim:** For verification of component tolerances.
